@@ -1,0 +1,18 @@
+# Name of the library. It should light up and look nice, right?
+
+TrinketNunchuck	KEYWORD2
+
+# Functions
+
+nunchuck_init	KEYWORD2
+nunchuck_send_request	KEYWORD2
+nunchuck_decode_byte	KEYWORD2
+nunchuck_get_data	KEYWORD2
+nunchuck_zbutton	KEYWORD2
+nunchuck_cbutton	KEYWORD2
+nunchuck_joyx	KEYWORD2
+nunchuck_joyy	KEYWORD2
+nunchuck_accelx	KEYWORD2
+nunchuck_accely	KEYWORD2
+nunchuck_accelz	KEYWORD2
+
